@@ -14,7 +14,7 @@ export const social = [
     {
         id:3,
         name:"LinkedIn",
-        icon:"linkedIn",
+        icon:"linkedin",
         link: "https://github.com/loth381"
     },
     {
